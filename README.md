@@ -160,5 +160,7 @@ This project is licensed under the MIT License.
 ## AUTHOR
 
 **Abdul Rahman K** 
+
 Biomedical Engineering Graduate (2026)
+
 Aspiring AI / Machine Learning Engineer
