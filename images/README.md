@@ -28,21 +28,31 @@ Illustration of the preprocessing pipeline showing
 
 Architecture of the proposed multi-task deep learning framework consisting of a shared DenseNet121 encoder with separate branches for brain tumor classification and tumor segmentation.
 
+---
+
 ## Figure 4: Confusion Matrix
 
 Confusion matrix showing the classification performance of the proposed model on the test dataset.
+
+---
 
 ## Figure 5: Training and Validation Accuracy
 
 Training and validation accuracy of the proposed model over 20 training epochs.
 
+---
+
 ## Figure 6: Training and Validation Loss
 
 Training and validation loss of the proposed model over 20 training epochs.
 
+--
+
 ## Figure 7: Multi-class ROC Curve
 
 ROC curves illustrating the classification performance of the proposed model across the three brain tumor classes.
+
+---
 
 ## Figure 8: Representative Classification Predictions
 
@@ -50,6 +60,8 @@ Representative examples of correctly classified brain tumor images showing with 
 - **(a)** Pituitary Tumor
 - **(b)** Meningioma
 - **(c)** Glioma
+
+---
 
 ## Figure 9: Representative Segmentation Results
 
