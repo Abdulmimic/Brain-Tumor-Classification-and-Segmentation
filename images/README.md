@@ -46,7 +46,7 @@ Training and validation accuracy of the proposed model over 20 training epochs.
 
 Training and validation loss of the proposed model over 20 training epochs.
 
---
+---
 
 ## Figure 7: Multi-class ROC Curve
 
