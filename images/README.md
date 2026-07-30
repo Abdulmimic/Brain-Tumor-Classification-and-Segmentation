@@ -47,9 +47,9 @@ ROC curves illustrating the classification performance of the proposed model acr
 ## Figure 8: Representative Classification Predictions
 
 Representative examples of correctly classified brain tumor images showing with predictions matching the corresponding ground-truth labels.
-**(a)** Pituitary Tumor
-**(b)** Meningioma
-**(c)** Glioma
+- **(a)** Pituitary Tumor
+- **(b)** Meningioma
+- **(c)** Glioma
 
 ## Figure 9: Representative Segmentation Results
 
